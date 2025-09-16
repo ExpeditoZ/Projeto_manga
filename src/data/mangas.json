@@ -1,0 +1,192 @@
+[
+  {
+    "id": "10",
+    "title": "Bleach",
+    "author": "Tite Kubo",
+    "price": "R$ 11,90",
+    "image": "/src/assets/bleach.jpg",
+    "tags": ["Ação","Sobrenatural","Shounen"],
+    "description": "Bleach segue as aventuras de Ichigo Kurosaki, que se torna um Soul Reaper e enfrenta Hollows enquanto protege os vivos e guia almas perdidas.",
+    "stock": true
+  },
+  {
+    "id": "11",
+    "title": "Neon Genesis Evangelion",
+    "author": "Yoshiyuki Sadamoto",
+    "price": "R$ 14,50",
+    "image": "/src/assets/evangelion.jpg",
+    "tags": ["Mecha","Drama","Psicológico","Sci-Fi"],
+    "description": "A história de Shinji Ikari, que é convocado para pilotar uma unidade biomecânica para combater seres chamados 'Anjos', enquanto lida com conflitos internos e psicológicos.",
+    "stock": true
+  },
+  {
+    "id": "12",
+    "title": "Dragon Ball",
+    "author": "Akira Toriyama",
+    "price": "R$ 10,90",
+    "image": "/src/assets/dragonball.jpg",
+    "tags": ["Ação","Aventura","Shounen"],
+    "description": "Segue as aventuras de Goku desde criança enquanto ele treina artes marciais, faz amigos e enfrenta diversos vilões com seus companheiros.",
+    "stock": true
+  },
+  {
+    "id": "13",
+    "title": "Slam Dunk",
+    "author": "Takehiko Inoue",
+    "price": "R$ 13,00",
+    "image": "/src/assets/slamdunk.jpg",
+    "tags": ["Esporte","Shounen"],
+    "description": "Slam Dunk conta a história de Hanamichi Sakuragi, um delinquente do ensino médio que entra para o clube de basquete para impressionar uma garota e acaba se apaixonando pelo jogo.",
+    "stock": true
+  },
+  {
+    "id": "14",
+    "title": "One Punch Man",
+    "author": "ONE, Yusuke Murata",
+    "price": "R$ 12,90",
+    "image": "/src/assets/onepunchman.jpg",
+    "tags": ["Ação","Comédia","Super-herói"],
+    "description": "One Punch Man segue Saitama, um herói que derrota qualquer inimigo com um único soco, buscando um desafio digno enquanto lida com crises existenciais.",
+    "stock": true
+  },
+  {
+    "id": "15",
+    "title": "Chainsaw Man",
+    "author": "Tatsuki Fujimoto",
+    "price": "R$ 11,50",
+    "image": "/src/assets/chainsawman.jpg",
+    "tags": ["Ação","Sobrenatural","Horror"],
+    "description": "Depois de uma tragédia, Denji se funde com seu demônio motor-serra e combate monstros para pagar suas dívidas enquanto tenta viver uma vida melhor.",
+    "stock": true
+  },
+  {
+    "id": "16",
+    "title": "My Hero Academia",
+    "author": "Kohei Horikoshi",
+    "price": "R$ 13,90",
+    "image": "/src/assets/bokunohero.jpg",
+    "tags": ["Ação","Super-herói","Shounen"],
+    "description": "Em um mundo onde quase todos nascem com superpoderes, Izuku Midoriya sonha em se tornar um herói, mesmo sem ter poderes no começo.",
+    "stock": true
+  },
+  {
+    "id": "17",
+    "title": "Jujutsu Kaisen",
+    "author": "Gege Akutami",
+    "price": "R$ 12,20",
+    "image": "/src/assets/jujutsukaisen.jpg",
+    "tags": ["Ação","Sobrenatural","Shounen"],
+    "description": "Yuji Itadori entra num mundo de feitiços e maldições após engolir um dedo demoníaco e decide frequentar a Escola de Feitiçaria para combater espíritos malignos.",
+    "stock": true
+  },
+  {
+    "id": "18",
+    "title": "Naruto Shippuden",
+    "author": "Masashi Kishimoto",
+    "price": "R$ 14,90",
+    "image": "/src/assets/narutoshippuden.jpg",
+    "tags": ["Ação","Shounen"],
+    "description": "Continuação de Naruto: Naruto retorna após anos de treino para proteger sua vila e enfrentar ameaças maiores.",
+    "stock": true
+  },
+  {
+    "id": "19",
+    "title": "Blue Lock",
+    "author": "Muneyuki Kaneshiro, Yusuke Nomura",
+    "price": "R$ 11,80",
+    "image": "/src/assets/bluelock.jpg",
+    "tags": ["Esporte","Shounen"],
+    "description": "Após derrota no mundial de futebol, o Japão inicia um projeto competitivo para encontrar o melhor atacante do mundo: Blue Lock.",
+    "stock": true
+  },
+  {
+    "id": "20",
+    "title": "Hunter × Hunter",
+    "author": "Yoshihiro Togashi",
+    "price": "R$ 15,00",
+    "image": "/src/assets/hunterxhunter.jpg",
+    "tags": ["Aventura","Shounen","Fantasia"],
+    "description": "Gon, um garoto jovem, parte numa jornada para se tornar um Hunter e encontrar seu pai, enfrentando desafios e criaturas incríveis.",
+    "stock": true
+  },
+  {
+    "id": "21",
+    "title": "Inuyasha",
+    "author": "Rumiko Takahashi",
+    "price": "R$ 12,70",
+    "image": "/src/assets/inuyasha.jpg",
+    "tags": ["Ação","Romance","Sobrenatural"],
+    "description": "Quando Kagome viaja no tempo para o Japão feudal, ela liberta o meio-demônio Inuyasha e se une a ele para coletar as Jóias de Shikon.",
+    "stock": true
+  },
+  {
+    "id": "22",
+    "title": "Spy × Family",
+    "author": "Tatsuya Endo",
+    "price": "R$ 11,40",
+    "image": "/src/assets/spyfamily.jpg",
+    "tags": ["Comédia","Espionagem","Slice of Life"],
+    "description": "A família Forger vive aventuras enquanto mantêm segredos: o pai é um espião, a mãe artista e a filha uma telepata.",
+    "stock": true
+  },
+  {
+    "id": "23",
+    "title": "Nanatsu no Taizai",
+    "author": "Nakaba Suzuki",
+    "price": "R$ 13,50",
+    "image": "/src/assets/nanatsu.jpg",
+    "tags": ["Fantasia","Ação","Shounen"],
+    "description": "Os Cavaleiros dos Sete Pecados lutam contra deuses e demônios para salvar o reino de Liones da destruição.",
+    "stock": true
+  },
+  {
+    "id": "24",
+    "title": "Boruto: Naruto Next Generations",
+    "author": "Ukyo Kodachi, Masashi Kishimoto",
+    "price": "R$ 12,90",
+    "image": "/src/assets/boruto.jpg",
+    "tags": ["Ação","Shounen"],
+    "description": "Boruto, filho de Naruto, inicia sua própria aventura enquanto lida com legado, amizade e responsabilidade.",
+    "stock": true
+  },
+  {
+    "id": "25",
+    "title": "Sakamoto Days",
+    "author": "Yuto Suzuki",
+    "price": "R$ 11,60",
+    "image": "/src/assets/sakamotodays.jpg",
+    "tags": ["Ação","Comédia","Shounen"],
+    "description": "Sakamoto é um ex-assassino que vive uma rotina tranquila até ser puxado de volta para o mundo do crime e proteger quem ama.",
+    "stock": true
+  },
+  {
+    "id": "26",
+    "title": "Gangsta.",
+    "author": "Kohske",
+    "price": "R$ 14,00",
+    "image": "/src/assets/gangsta.jpg",
+    "tags": ["Crime","Ação","Drama"],
+    "description": "Na cidade corrupta de Ergastulum, 'Handymen' fazem trabalhos ilegais enquanto lidam com gangues, polícia e conflitos morais.",
+    "stock": true
+  },
+  {
+    "id": "27",
+    "title": "Dr. Stone",
+    "author": "Riichiro Inagaki, Boichi",
+    "price": "R$ 13,80",
+    "image": "/src/assets/drstone.jpg",
+    "tags": ["Ciência","Aventura","Shounen"],
+    "description": "Após um evento global que petrificou a humanidade, Senku Ishigami precisa reviver a civilização usando o poder da ciência.",
+    "stock": true
+  },
+  {
+    "id": "28",
+    "title": "JoJo's Bizarre Adventure",
+    "author": "Hirohiko Araki",
+    "price": "R$ 15,90",
+    "image": "/src/assets/jojo.jpg",
+    "tags": ["Aventura","Sobrenatural","Shounen"],
+    "description": "Histórias épicas de diferentes gerações da família Joestar enfrentando inimigos com poderes únicos chamados 'Stands'.",
+    "stock": true
+  }
+]

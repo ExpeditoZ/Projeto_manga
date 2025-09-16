@@ -1,0 +1,10 @@
+
+.category-row{margin:12px 0;padding:0 8px}
+.category-title{font-size:1.05rem;margin:6px 0 8px;font-weight:700;color:var(--text)}
+.manga-scroll{display:flex;gap:12px;overflow-x:auto;padding-bottom:10px}
+.manga-card{min-width:120px;cursor:pointer}
+.manga-thumb img{width:120px;height:170px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.6)}
+.manga-meta{display:flex;align-items:center;justify-content:space-between;margin-top:8px}
+.manga-name{flex:1;margin:0 8px 0 0;font-size:0.85rem;color:var(--text);font-weight:600}
+.fav-btn{background:transparent;border:none;cursor:pointer;color:#fff;font-size:18px}
+.fav-btn.faved{color:var(--accent)}
